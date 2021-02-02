@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Olá 👋, Me chamo Matheus Albuquerque
 
 
-Programador front-end
+Programador full-stack junior
 
 Skills: REACT / JS / HTML / CSS
 
