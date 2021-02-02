@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Programador full-stack junior
 
-Skills: REACT / JS / HTML / CSS
+Skills: JS / HTML / CSS / REACT / NODE JS / PHP / SQL / MONGO DB
 
 🌱 Atualmente estou estudando no progama Recode Pro que forma progamadores Full Stack
 
