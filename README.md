@@ -26,3 +26,4 @@ Skills: JS / HTML / CSS / REACT / NODE JS / PHP / SQL / MONGO DB
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/matheus-albuquerque-0587b61a6)  
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrdads&layout=compact)](https://github.com/matheusrdads/github-readme-stats)
