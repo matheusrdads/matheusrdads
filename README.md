@@ -21,9 +21,7 @@ Skills: JS / HTML / CSS / REACT / NODE JS / PHP / SQL / MONGO DB
 
 🌱 Atualmente estou estudando no progama Recode Pro que forma progamadores Full Stack
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/matheus-albuquerque-0587b61a6)  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-albuquerque-0587b61a6)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrdads&layout=compact&theme=dark)](https://github.com/matheusrdads/github-readme-stats)
